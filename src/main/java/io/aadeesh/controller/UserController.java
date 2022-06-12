@@ -48,7 +48,7 @@ public class UserController
 		
 		if(list.size()!=0)
 		{
-		mv.addObject("message", "Oops! is already a user registered with the email provided.");
+		mv.addObject("message", ".");
 		
 		}
 		else
